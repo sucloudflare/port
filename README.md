@@ -1,27 +1,27 @@
  <h1>Estilos do Portfólio</h1>
 
       <!-- Visão Geral -->
-      <article>
-         <h2>Visão Geral</h2>
-           <p>Este README fornece uma visão geral dos estilos CSS aplicados à seção de portfólio de uma página web. A seção de portfólio foi projetada para destacar a introdução de um desenvolvedor, uma lista de tecnologias utilizadas e uma imagem com um efeito de destaque.</p>
+   <articl     
+   <h2>Visão Geral</h2>
+         <p>Este README fornece uma visão geral dos estilos CSS aplicados à seção de portfólio de uma página web. A seção de portfólio foi projetada para destacar a introdução de um desenvolvedor, uma lista de tecnologias utilizadas e uma imagem com um efeito de destaque.</p>
         </article>
-      <!-- Detalhamento dos Estilos -->
+     <!-- Detalhamento dos Estilos -->
       <article>
-           <h2>Detalhamento dos Estilos</h2>
-            <!-- Estilos Principais -->
-         <section>
-                <h3>Estilos Principais</h3>
-             <ul>
-                 <li>O preenchimento é de 5% da largura do contêiner principal.</li>
-                  <li>Utiliza um contêiner flexível para alinhar itens verticalmente e justificá-los com espaço entre eles.</li>
+        <h2>Detalhamento dos Estilos</h2>
+         <!-- Estilos Principais -->
+      <section>
+             <h3>Estilos Principais</h3>
+            <ul>
+            <li>O preenchimento é de 5% da largura do contêiner principal.</li>
+               <li>Utiliza um contêiner flexível para alinhar itens verticalmente e justificá-los com espaço entre eles.</li>
               </ul>
            </section>
-          <!-- Estilos do Conteúdo Principal --         <section>
-                <h3>Estilos do Conteúdo Principal</h3>
-              <ul>
-                 <li>O conteúdo principal é estruturado como um contêiner flexível com direção de coluna.</li>
-                 <li>O cabeçalho (h2) tem um tamanho de fonte de 2,2em e uma margem inferior de 2%.</li>
-                <li>Os parágrafos têm uma largura de 75%, um tamanho de fonte de 1,2em e um peso de fonte mais leve (300).</li>
+          <!-- Estilos do Conteúdo Principal --         <sect
+       <h3>Estilos do Conteúdo Principal</h3>
+           <ul>
+       <li>O conteúdo principal é estruturado como um contêiner flexível com direção de coluna.</li>
+         <li>O cabeçalho (h2) tem um tamanho de fonte de 2,2em e uma margem inferior de 2%.</li>
+       <li>Os parágrafos têm uma largura de 75%, um tamanho de fonte de 1,2em e um peso de fonte mais leve (300).</li>
                 </ul>
             </section>
            <!-- Estilos da Seção de Tecnologias -->
