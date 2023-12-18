@@ -33,12 +33,12 @@
      <ul>
       <li>A seção de imagem é um contêiner flexível com direção de coluna invertida, alinhando os itens verticalmente no centro e justificando-os no centro horizontalmente.</li>
     <li>A imagem é circular, com dimensões de 400px por 400px, possui uma borda com um efeito de destaque ao passar o mouse através de uma sombra de caixa.</li>
-          </ul>
+        </ul>
         </section>
-      </article>
+     </article>
 
       <!-- Utilização -->
-     <article>
-       <h2>Utilização</h2>
-        <p>Integre esses estilos ao seu arquivo de estilo CSS para aplicá-los à seção de portfólio. Certifique-se de que a estrutura HTML corresponda à estrutura assumida por esses estilos. Sinta-se à vontade para personalizar cores, dimensões e transições para criar uma seção de portfólio única e visualmente atraente.</p>
+    <article>
+      <h2>Utilização</h2>
+       <p>Integre esses estilos ao seu arquivo de estilo CSS para aplicá-los à seção de portfólio. Certifique-se de que a estrutura HTML corresponda à estrutura assumida por esses estilos. Sinta-se à vontade para personalizar cores, dimensões e transições para criar uma seção de portfólio única e visualmente atraente.</p>
        </article>
