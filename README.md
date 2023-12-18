@@ -1,7 +1,6 @@
  <h1>Estilos do Portfólio</h1>
 
-      <!-- Visão Geral -->
-   <articl     
+     
    <h2>Visão Geral</h2>
          <p>Este README fornece uma visão geral dos estilos CSS aplicados à seção de portfólio de uma página web. A seção de portfólio foi projetada para destacar a introdução de um desenvolvedor, uma lista de tecnologias utilizadas e uma imagem com um efeito de destaque.</p>
         </article>
