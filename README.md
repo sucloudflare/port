@@ -1,8 +1,6 @@
- <h1>Estilos do Portfólio</h1>
-
- <h2>img</h2>
 <img src='./A.png' alt='' style='width: 900px;'>
-
+<br>
+<h1>Estilos do Portfólio</h1>
    <p>Este README fornece uma visão geral dos estilos CSS aplicados à seção de portfólio de uma página web. A seção de portfólio foi projetada para destacar a introdução de um desenvolvedor, uma lista de tecnologias utilizadas e uma imagem com um efeito de destaque.</p>
 
 
